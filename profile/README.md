@@ -15,7 +15,7 @@ Welcome to **Developabile**, your gateway to innovative decentralized web-based 
 
 We are passionate about fostering a collaborative and inclusive community. Join our Discord server to connect with other developers, share ideas, and get support from our team.
 
-- **Join us on Discord**: [Discord Server](https://discord.gg/QG2sPwrd)
+- **Join us on Discord**: [Discord Server](https://discord.gg/6xJmJja8fV)
 
 Thank you for visiting Developabile! Together, we can build a better, decentralized web.
 
