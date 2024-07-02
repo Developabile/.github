@@ -7,9 +7,13 @@ Welcome to **Developabile**, your gateway to innovative decentralized web-based 
 
 ### Our Product
 
-1.  **Rive** : Rive is a cutting-edge, ad-free platform for streaming/downloading movies and TV shows online. Your Personal Streaming Oasis.
+<!-- 1.  **Rive** : Rive is a cutting-edge, ad-free platform for streaming/downloading movies and TV shows online. Your Personal Streaming Oasis.
     - **Visit Rive**: https://rivestream.live , https://rivestream.vercel.app/ , https://rive-next.vercel.app/
-    - **Download Rive**: https://github.com/Developabile/rive-tauri/releases/latest
+    - **Download Rive**: https://github.com/Developabile/rive-tauri/releases/latest -->
+
+| Product                                                       | Description                                                                                                                        | Domains/website                                                                                                         | Download                                                                   |
+| ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| ![Rive](https://rivestream.vercel.app/icons/icon-256x256.png) | Rive is a cutting-edge, ad-free platform for streaming/downloading movies and TV shows online. <br> Your Personal Streaming Oasis. | <ul><li> https://rivestream.live</li><li> https://rivestream.vercel.app</li><li> https://rive-next.vercel.app</li></ul> | [Tauri Latest](https://github.com/Developabile/rive-tauri/releases/latest) |
 
 ### Join Our Community
 
