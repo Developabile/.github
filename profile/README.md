@@ -14,9 +14,9 @@ Welcome to **Developabile**, your gateway to innovative decentralized web-based 
       - https://rive-next.vercel.app
     - **Download Rive**: https://github.com/Developabile/rive-tauri/releases/latest -->
 
-| Product                                                                                                      | Domains/website                                                                                                                                               | Download                                                                   |
-| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| <img width="100" align="right" alt="coder.gif" src="https://rivestream.vercel.app/icons/icon-256x256.png" /> | <ul><li> https://rivestream.live</li><li> https://rivestream.vercel.app</li><li>https://rivestream.netlify.app</li><li>https://rive-next.vercel.app</li></ul> | [Tauri Latest](https://github.com/Developabile/rive-tauri/releases/latest) |
+| Product                                                                                           | Domains/website                                                                                                                                               | Download                                                                   |
+| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| <img width="100" align="right" alt="rive" src="https://rivestream.live/icons/icon-256x256.png" /> | <ul><li> https://rivestream.live</li><li> https://rivestream.vercel.app</li><li>https://rivestream.netlify.app</li><li>https://rive-next.vercel.app</li></ul> | [Tauri Latest](https://github.com/Developabile/rive-tauri/releases/latest) |
 
 ### Join Our Community
 
