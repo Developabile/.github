@@ -17,6 +17,7 @@ Welcome to **Developabile**, your gateway to innovative decentralized web-based 
 | Product                                                                                           | Domains/website                                                                                                                                               | Download                                                                   |
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | <img width="100" align="right" alt="rive" src="https://rivestream.live/icons/icon-256x256.png" /> | <ul><li> https://rivestream.live</li><li> https://rivestream.vercel.app</li><li>https://rivestream.netlify.app</li><li>https://rive-next.vercel.app</li></ul> | [Tauri Latest](https://github.com/Developabile/rive-tauri/releases/latest) |
+| <img width="100" align="right" alt="rive" src="https://rivekun.rivestream.live/icons/icon-192x192.png" /> | <ul><li> https://rivekun.rivestream.live</li><li> https://rivekun.pages.dev</li><li>https://rivekun.netlify.app</li></ul> | -- |
 
 ### Join Our Community
 
