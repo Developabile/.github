@@ -14,16 +14,15 @@ Welcome to **Developabile**, your gateway to innovative decentralized web-based 
       - https://rive-next.vercel.app
     - **Download Rive**: https://github.com/Developabile/rive-tauri/releases/latest -->
 
-| Product                                                                                           | Domains/website                                                                                                                                               | Download                                                                   |
-| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| <img width="100" align="right" alt="rive" src="https://rivestream.live/icons/icon-256x256.png" /> | <ul><li> https://rivestream.live</li><li> https://rivestream.vercel.app</li><li>https://rivestream.netlify.app</li><li>https://rive-next.vercel.app</li></ul> | [Tauri Latest](https://github.com/Developabile/rive-tauri/releases/latest) |
-| <img width="100" align="right" alt="rive" src="https://rivekun.rivestream.live/icons/icon-192x192.png" /> | <ul><li> https://rivekun.rivestream.live</li><li> https://rivekun.pages.dev</li><li>https://rivekun.netlify.app</li></ul> | -- |
+| Product                                                                                                   | Domains/website                                                                                                                                               | Download                                                                   |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| <img width="100" align="right" alt="rive" src="https://rivestream.live/icons/icon-256x256.png" />         | <ul><li> https://rivestream.live</li><li> https://rivestream.pages.dev</li><li>https://rivestream.netlify.app</li></ul> | [Tauri Latest](https://github.com/Developabile/rive-tauri/releases/latest) |
+| <img width="100" align="right" alt="rive" src="https://rivekun.rivestream.live/icons/icon-192x192.png" /> | <ul><li> https://rivekun.rivestream.live</li><li> https://rivekun.pages.dev</li><li>https://rivekun.netlify.app</li></ul>                                     | --                                                                         |
 
 ### Join Our Community
 
-We are passionate about fostering a collaborative and inclusive community. Join our Discord server to connect with other developers, share ideas, and get support from our team.
-
-- **Join us on Discord**: [Discord Server](https://discord.gg/6xJmJja8fV)
+[![Discord](https://img.shields.io/badge/discord-7c3aed?&style=for-the-badge&logo=discord&logoColor=white&color=7c3aed&cacheSeconds=3600)](https://discord.gg/6xJmJja8fV)
+[![Gmail](https://img.shields.io/badge/mail-7c3aed?&style=for-the-badge&logo=gmail&logoColor=white&color=7c3aed&cacheSeconds=3600)](mailto:aarav4dev@hotmail.com)
 
 Thank you for visiting Developabile! Together, we can build a better, decentralized web.
 
