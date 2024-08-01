@@ -19,6 +19,7 @@ Welcome to **Developabile**, your gateway to innovative decentralized web-based 
 | <img width="100" align="right" alt="rive" src="https://rivestream.live/icons/icon-256x256.png" />         | <ul><li> https://rivestream.live</li><li> https://rivestream.pages.dev</li><li>https://rivestream.netlify.app</li></ul> | [Tauri Latest](https://github.com/Developabile/rive-tauri/releases/latest) |
 | <img width="100" align="right" alt="rive" src="https://rivekun.rivestream.live/icons/icon-192x192.png" /> | <ul><li> https://rivekun.rivestream.live</li><li> https://rivekun.pages.dev</li><li>https://rivekun.netlify.app</li></ul>                                     | --                                                                         |
 
+A big thanks to [nicks258](https://github.com/nicks258) for developing the Flutter version of Rive
 ### Join Our Community
 
 [![Discord](https://img.shields.io/badge/discord-7c3aed?&style=for-the-badge&logo=discord&logoColor=white&color=7c3aed&cacheSeconds=3600)](https://discord.gg/6xJmJja8fV)
